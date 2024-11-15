@@ -17,10 +17,10 @@ There are two ways to install the SwiftSellClientAPI:
 
    ```html
    <!-- specific version -->
-   <script src="https://cdn.jsdelivr.net/npm/swiftsell-client-api@0.0.1/SwiftSellClientAPI.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/swiftsell-client-api@0.0.1/dist/SwiftSellClientAPI.min.js"></script>
 
    <!-- latest version (omit the version in the URL) -->
-   <script src="https://cdn.jsdelivr.net/npm/swiftsell-client-api/SwiftSellClientAPI.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/swiftsell-client-api/dist/SwiftSellClientAPI.min.js"></script>
    ```
 
 2. **Import as a module**:
